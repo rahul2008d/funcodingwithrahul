@@ -103,7 +103,6 @@ protobuf==3.19.4
 pure-eval==0.2.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/DattaRa/pipwin/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
 pycparser==2.21
 pygame==2.1.2
 Pygments==2.11.2
