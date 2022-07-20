@@ -29,7 +29,6 @@ SECRET_KEY = SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'cg#p$g+j9tax!#a3c
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-heroku config:set DISABLE_COLLECTSTATIC=1
 
 # DEBUG = DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
